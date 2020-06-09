@@ -1,0 +1,34 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    margin: 0;
+    height: 100%;
+}
+
+.page-container {
+    position: relative;
+    min-height: 100vh;
+}
+
+footer {
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;            /* Footer height */
+}
+
+.jumbotron {
+    margin-bottom: 0;
+}
+
+table {
+    width: 100%;
+    margin-bottom: 0;
+}
+
+
